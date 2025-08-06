@@ -1,31 +1,10 @@
-<p align="center">
-  <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: none;">
-    <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
+<img width="1200" height="578" alt="image" src="https://github.com/user-attachments/assets/f1da41ba-82ad-4410-ab07-dde5f5a9f4ed" /><p align="center">
+  <a href="https://www.uit.edu.vn/" title="Trường Đại học CMC" style="border: none;">
   </a>
 </p>
 
-<h1 align="center"><b>ĐỒ ÁN NHÓM ĐOM ĐÓM</b></h1>
+<h1 align="center"><b>ĐỒ ÁN NHÓM</b></h1>
 
-## GIỚI THIỆU ĐỒ ÁN
-
-- **Đề tài:** Xây dựng trang thương mại điện tử bán giày
-- **Repository BACKEND:** [LẬP TRÌNH JAVA - IS216](https://github.com/DiiKhanh/is216-java-sneaker)
-- **Repository FRONTEND:** [Giao diện trang thương mại điện tử bán giày](https://github.com/DiiKhanh/FE-Project-Sneaker-with-springboot)
-
-## CÔNG NGHỆ SỬ DỤNG
-
-- **Backend:** [Java](https://www.java.com/en/), [Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
-- **Frontend:** [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://www.javascript.com/), [ReactJS](https://reactjs.org/), [Redux Toolkit](https://redux.js.org/), [Bootstrap](https://reactstrap.github.io/?path=/story/home-installation--page)
-- **Database:** [Oracle](https://www.oracle.com/)
-
-## THÀNH VIÊN NHÓM
-
-| STT | MSSV     | Họ và Tên         | GitHub                           | Email                  |
-| :-- | :------- | :---------------- | :------------------------------- | :--------------------- |
-| 1   | 21522211 | Phạm Duy Khánh    | https://github.com/DiiKhanh      | 21522211@gm.uit.edu.vn |
-| 2   | 21521230 | Ngô Thùy Yến Nhi  | https://github.com/ngothuyyennhi | 21521230@gm.uit.edu.vn |
-| 3   | 21521990 | Nguyễn Dương      | https://github.com/duonguwu      | 21521990@gm.uit.edu.vn |
-| 4   | 21522351 | Nguyễn Ngọc Hà My | https://github.com/mietheweirdo  | 21522351@gm.uit.edu.vn |
 
 ## How to run locally:
 
